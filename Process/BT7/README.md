@@ -1,0 +1,1 @@
+Use SIGCHLD to prevent zombie process
