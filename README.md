@@ -1,1 +1,1 @@
-This are Linux Programming exercises
+These are Linux Programming exercises
