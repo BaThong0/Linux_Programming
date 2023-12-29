@@ -1,0 +1,1 @@
+Write a program A create child process B, print their PIDs and use waitpid() to get child's status
