@@ -1,1 +1,0 @@
-This is an exercise to print file type, file size, file name, last modified using system call function and stat struct 
