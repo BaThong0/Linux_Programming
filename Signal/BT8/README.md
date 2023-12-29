@@ -1,0 +1,1 @@
+Write a program to print any message when pressing Ctrl+C. Register action for SIGUSR1 and SIGUSR2

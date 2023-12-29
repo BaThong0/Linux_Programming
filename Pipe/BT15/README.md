@@ -1,0 +1,1 @@
+Create FIFO to transfer data between unrelated processes

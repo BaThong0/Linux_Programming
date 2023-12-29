@@ -1,0 +1,1 @@
+This is an exercise to open any file using O_APPEND flag and seek to the beginning of the file and write some data in there
